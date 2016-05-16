@@ -2,6 +2,7 @@
 
 #include "ofMain.h"
 #include "ofxMidi.h"
+#include "Scene.h"
 
 class ofApp : public ofBaseApp{
 
